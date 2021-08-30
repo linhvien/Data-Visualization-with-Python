@@ -1,0 +1,665 @@
+Order ID	Product	Quantity Ordered	Price Each	Order Date	Purchase Address
+141234	iPhone	1	700	1/22/2019 21:25	944 Walnut St, Boston, MA 02215
+141235	Lightning Charging Cable	1	14.95	1/28/2019 14:15	185 Maple St, Portland, OR 97035
+141236	Wired Headphones	2	11.99	1/17/2019 13:33	538 Adams St, San Francisco, CA 94016
+141237	27in FHD Monitor	1	149.99	1/5/2019 20:33	738 10th St, Los Angeles, CA 90001
+141238	Wired Headphones	1	11.99	1/25/2019 11:59	387 10th St, Austin, TX 73301
+141239	AAA Batteries (4-pack)	1	2.99	1/29/2019 20:22	775 Willow St, San Francisco, CA 94016
+141240	27in 4K Gaming Monitor	1	389.99	1/26/2019 12:16	979 Park St, Los Angeles, CA 90001
+141241	USB-C Charging Cable	1	11.95	1/5/2019 12:04	181 6th St, San Francisco, CA 94016
+141242	Bose SoundSport Headphones	1	99.99	1/1/2019 10:30	867 Willow St, Los Angeles, CA 90001
+141243	Apple Airpods Headphones	1	150	1/22/2019 21:20	657 Johnson St, San Francisco, CA 94016
+141244	Apple Airpods Headphones	1	150	1/7/2019 11:29	492 Walnut St, San Francisco, CA 94016
+141245	Macbook Pro Laptop	1	1700	1/31/2019 10:12	322 6th St, San Francisco, CA 94016
+141246	AAA Batteries (4-pack)	3	2.99	1/9/2019 18:57	618 7th St, Los Angeles, CA 90001
+141247	27in FHD Monitor	1	149.99	1/25/2019 19:19	512 Wilson St, San Francisco, CA 94016
+141248	Flatscreen TV	1	300	1/3/2019 21:54	363 Spruce St, Austin, TX 73301
+141249	27in FHD Monitor	1	149.99	1/5/2019 17:20	440 Cedar St, Portland, OR 97035
+141250	Vareebadd Phone	1	400	1/10/2019 11:20	471 Center St, Los Angeles, CA 90001
+141251	Apple Airpods Headphones	1	150	1/24/2019 8:13	414 Walnut St, Boston, MA 02215
+141252	USB-C Charging Cable	1	11.95	1/30/2019 9:28	220 9th St, Los Angeles, CA 90001
+141253	AA Batteries (4-pack)	1	3.84	1/17/2019 0:09	385 11th St, Atlanta, GA 30301
+141254	AAA Batteries (4-pack)	1	2.99	1/8/2019 11:51	238 Sunset St, Seattle, WA 98101
+141255	USB-C Charging Cable	1	11.95	1/9/2019 20:55	764 11th St, Los Angeles, CA 90001
+141256	Google Phone	1	600	1/29/2019 10:40	675 Washington St, Portland, OR 97035
+141257	Apple Airpods Headphones	1	150	1/12/2019 18:51	338 Highland St, San Francisco, CA 94016
+141258	AA Batteries (4-pack)	1	3.84	1/19/2019 21:47	820 1st St, San Francisco, CA 94016
+141259	AAA Batteries (4-pack)	2	2.99	1/20/2019 17:26	920 Adams St, San Francisco, CA 94016
+141260	AAA Batteries (4-pack)	1	2.99	1/1/2019 22:00	293 Hill St, San Francisco, CA 94016
+141261	USB-C Charging Cable	1	11.95	1/9/2019 18:14	840 Lincoln St, Atlanta, GA 30301
+141262	AAA Batteries (4-pack)	1	2.99	1/16/2019 12:35	291 Lincoln St, San Francisco, CA 94016
+141263	Bose SoundSport Headphones	1	99.99	1/11/2019 23:33	640 Spruce St, Boston, MA 02215
+141264	Apple Airpods Headphones	1	150	1/3/2019 9:46	937 Highland St, New York City, NY 10001
+141265	Apple Airpods Headphones	1	150	1/1/2019 16:52	853 Ridge St, Boston, MA 02215
+141266	27in 4K Gaming Monitor	1	389.99	1/2/2019 22:21	834 4th St, Dallas, TX 75001
+141267	Apple Airpods Headphones	1	150	1/9/2019 8:28	649 Sunset St, Los Angeles, CA 90001
+141268	AA Batteries (4-pack)	1	3.84	1/14/2019 10:13	611 Elm St, New York City, NY 10001
+141269	27in 4K Gaming Monitor	1	389.99	1/3/2019 20:05	812 Jefferson St, Los Angeles, CA 90001
+141270	Wired Headphones	1	11.99	1/27/2019 23:10	469 Hill St, San Francisco, CA 94016
+141271	USB-C Charging Cable	1	11.95	1/30/2019 10:51	90 13th St, Boston, MA 02215
+141272	AAA Batteries (4-pack)	1	2.99	1/12/2019 13:09	818 Lincoln St, New York City, NY 10001
+141273	Wired Headphones	2	11.99	1/29/2019 12:04	994 13th St, Boston, MA 02215
+141274	USB-C Charging Cable	1	11.95	1/17/2019 11:30	8 Jackson St, Los Angeles, CA 90001
+141275	USB-C Charging Cable	1	11.95	1/7/2019 16:06	610 Walnut St, Austin, TX 73301
+141275	Wired Headphones	1	11.99	1/7/2019 16:06	610 Walnut St, Austin, TX 73301
+141276	Lightning Charging Cable	1	14.95	1/21/2019 22:23	63 Cherry St, Los Angeles, CA 90001
+141277	Bose SoundSport Headphones	1	99.99	1/13/2019 19:07	370 Lakeview St, Austin, TX 73301
+141278	Lightning Charging Cable	1	14.95	1/26/2019 12:14	100 Cherry St, New York City, NY 10001
+141279	Lightning Charging Cable	1	14.95	1/3/2019 19:10	938 14th St, Boston, MA 02215
+141280	AAA Batteries (4-pack)	1	2.99	1/20/2019 16:10	530 7th St, Los Angeles, CA 90001
+141281	Lightning Charging Cable	1	14.95	1/5/2019 16:51	274 2nd St, Atlanta, GA 30301
+141282	Vareebadd Phone	1	400	1/11/2019 18:10	125 Center St, New York City, NY 10001
+141283	Flatscreen TV	1	300	1/2/2019 16:16	68 Hickory St, Seattle, WA 98101
+141284	Wired Headphones	1	11.99	1/29/2019 18:30	462 1st St, Los Angeles, CA 90001
+141285	AAA Batteries (4-pack)	3	2.99	1/14/2019 14:13	447 Cedar St, Seattle, WA 98101
+141286	27in 4K Gaming Monitor	1	389.99	1/2/2019 20:33	505 Hickory St, Dallas, TX 75001
+141287	Bose SoundSport Headphones	1	99.99	1/31/2019 8:38	386 Elm St, San Francisco, CA 94016
+141288	Macbook Pro Laptop	1	1700	1/19/2019 8:17	789 Washington St, Los Angeles, CA 90001
+141289	20in Monitor	1	109.99	1/28/2019 11:17	534 Elm St, Atlanta, GA 30301
+141290	Apple Airpods Headphones	1	150	1/2/2019 8:25	4 1st St, Los Angeles, CA 90001
+141290	AA Batteries (4-pack)	3	3.84	1/2/2019 8:25	4 1st St, Los Angeles, CA 90001
+141291	AA Batteries (4-pack)	1	3.84	1/26/2019 18:11	632 13th St, Los Angeles, CA 90001
+141292	AAA Batteries (4-pack)	1	2.99	1/21/2019 8:46	847 Ridge St, Los Angeles, CA 90001
+141293	USB-C Charging Cable	1	11.95	1/18/2019 12:21	880 Washington St, Boston, MA 02215
+141294	Bose SoundSport Headphones	1	99.99	1/25/2019 8:12	907 Highland St, San Francisco, CA 94016
+141295	AA Batteries (4-pack)	1	3.84	1/6/2019 20:06	898 Lakeview St, Austin, TX 73301
+141296	USB-C Charging Cable	1	11.95	1/20/2019 0:21	889 Cedar St, Atlanta, GA 30301
+141297	Lightning Charging Cable	1	14.95	1/4/2019 11:09	566 Highland St, San Francisco, CA 94016
+141298	Lightning Charging Cable	1	14.95	1/21/2019 13:24	81 10th St, Dallas, TX 75001
+141299	AAA Batteries (4-pack)	1	2.99	1/31/2019 23:23	836 Hill St, Dallas, TX 75001
+141300	Apple Airpods Headphones	1	150	1/23/2019 10:21	121 Cherry St, Boston, MA 02215
+141301	Apple Airpods Headphones	1	150	1/27/2019 11:58	867 Hill St, New York City, NY 10001
+141302	AAA Batteries (4-pack)	2	2.99	1/18/2019 20:12	90 14th St, Portland, OR 97035
+141303	AA Batteries (4-pack)	1	3.84	1/19/2019 9:23	313 14th St, Seattle, WA 98101
+141304	USB-C Charging Cable	1	11.95	1/28/2019 13:10	363 Willow St, Los Angeles, CA 90001
+141305	AAA Batteries (4-pack)	3	2.99	1/27/2019 16:51	756 Wilson St, Austin, TX 73301
+141306	Wired Headphones	1	11.99	1/19/2019 10:25	458 Forest St, San Francisco, CA 94016
+141307	AAA Batteries (4-pack)	1	2.99	1/11/2019 11:18	895 Johnson St, Boston, MA 02215
+141308	27in FHD Monitor	1	149.99	1/12/2019 12:00	926 Cedar St, Portland, OR 97035
+141309	AAA Batteries (4-pack)	2	2.99	1/20/2019 7:02	423 Elm St, San Francisco, CA 94016
+141310	AAA Batteries (4-pack)	1	2.99	1/7/2019 13:32	679 8th St, San Francisco, CA 94016
+141311	34in Ultrawide Monitor	1	379.99	1/28/2019 12:45	223 North St, Atlanta, GA 30301
+141312	Apple Airpods Headphones	1	150	1/8/2019 23:20	741 11th St, San Francisco, CA 94016
+141313	Lightning Charging Cable	1	14.95	1/9/2019 15:03	38 Johnson St, Los Angeles, CA 90001
+141314	Macbook Pro Laptop	1	1700	1/13/2019 23:51	700 Jefferson St, New York City, NY 10001
+141315	USB-C Charging Cable	1	11.95	1/10/2019 1:32	842 8th St, Seattle, WA 98101
+141316	AAA Batteries (4-pack)	3	2.99	1/1/2019 7:26	235 South St, Seattle, WA 98101
+141317	27in FHD Monitor	1	149.99	1/21/2019 11:18	875 Meadow St, New York City, NY 10001
+141318	Bose SoundSport Headphones	1	99.99	1/9/2019 15:21	789 Lakeview St, Boston, MA 02215
+141319	Bose SoundSport Headphones	1	99.99	1/1/2019 10:43	548 Maple St, Boston, MA 02215
+141320	AA Batteries (4-pack)	1	3.84	1/24/2019 13:37	326 12th St, Los Angeles, CA 90001
+141321	Bose SoundSport Headphones	1	99.99	1/10/2019 9:07	207 8th St, Los Angeles, CA 90001
+141322	AAA Batteries (4-pack)	2	2.99	1/12/2019 21:56	816 Lake St, Boston, MA 02215
+141323	USB-C Charging Cable	1	11.95	1/17/2019 21:54	240 River St, New York City, NY 10001
+141324	USB-C Charging Cable	1	11.95	1/4/2019 23:36	851 Maple St, San Francisco, CA 94016
+141325	Bose SoundSport Headphones	1	99.99	1/23/2019 15:17	880 Lake St, Austin, TX 73301
+141326	Google Phone	1	600	1/5/2019 13:49	131 Center St, San Francisco, CA 94016
+141327	USB-C Charging Cable	1	11.95	1/31/2019 1:38	238 Washington St, Los Angeles, CA 90001
+141328	ThinkPad Laptop	1	999.99	1/6/2019 23:18	736 5th St, Seattle, WA 98101
+141329	USB-C Charging Cable	1	11.95	1/1/2019 16:01	122 5th St, Portland, ME 04101
+141330	Wired Headphones	1	11.99	1/21/2019 13:04	391 5th St, Portland, OR 97035
+141331	Flatscreen TV	1	300	1/9/2019 18:32	299 Park St, San Francisco, CA 94016
+141332	USB-C Charging Cable	1	11.95	1/19/2019 18:52	207 7th St, Los Angeles, CA 90001
+141333	27in FHD Monitor	1	149.99	1/1/2019 13:58	554 10th St, Los Angeles, CA 90001
+141334	USB-C Charging Cable	1	11.95	1/15/2019 2:05	459 4th St, San Francisco, CA 94016
+141335	AAA Batteries (4-pack)	5	2.99	1/12/2019 18:16	174 4th St, Los Angeles, CA 90001
+141336	iPhone	1	700	1/9/2019 18:23	811 Hickory St, Portland, OR 97035
+141337	Bose SoundSport Headphones	1	99.99	1/9/2019 9:22	947 Church St, San Francisco, CA 94016
+141338	AAA Batteries (4-pack)	1	2.99	1/29/2019 16:19	542 4th St, Dallas, TX 75001
+141339	AAA Batteries (4-pack)	1	2.99	1/28/2019 12:52	539 Lakeview St, Dallas, TX 75001
+141340	Lightning Charging Cable	1	14.95	1/27/2019 14:30	710 Johnson St, Boston, MA 02215
+141341	LG Dryer	1	600	1/13/2019 10:09	844 Walnut St, Austin, TX 73301
+141342	Wired Headphones	1	11.99	1/26/2019 21:13	119 9th St, Seattle, WA 98101
+141343	Bose SoundSport Headphones	1	99.99	1/24/2019 13:36	157 1st St, New York City, NY 10001
+141344	Apple Airpods Headphones	1	150	1/20/2019 12:38	443 Washington St, Portland, OR 97035
+141345	USB-C Charging Cable	1	11.95	1/9/2019 13:55	398 5th St, San Francisco, CA 94016
+141346	Apple Airpods Headphones	1	150	1/14/2019 13:59	285 Cherry St, Boston, MA 02215
+141347	AA Batteries (4-pack)	1	3.84	1/27/2019 17:46	885 Walnut St, Atlanta, GA 30301
+141348	USB-C Charging Cable	2	11.95	1/26/2019 18:56	493 5th St, Portland, OR 97035
+141349	Lightning Charging Cable	1	14.95	1/3/2019 20:51	886 10th St, New York City, NY 10001
+141350	Lightning Charging Cable	1	14.95	1/1/2019 11:17	804 River St, San Francisco, CA 94016
+141351	USB-C Charging Cable	2	11.95	1/24/2019 17:02	865 Church St, San Francisco, CA 94016
+141352	Lightning Charging Cable	1	14.95	1/11/2019 19:07	800 4th St, Los Angeles, CA 90001
+141353	USB-C Charging Cable	1	11.95	1/26/2019 10:35	870 Cherry St, New York City, NY 10001
+141354	Bose SoundSport Headphones	1	99.99	1/3/2019 11:12	869 Hill St, Atlanta, GA 30301
+141355	27in 4K Gaming Monitor	1	389.99	1/18/2019 15:24	674 Main St, Dallas, TX 75001
+141356	Lightning Charging Cable	1	14.95	1/9/2019 17:32	336 1st St, Boston, MA 02215
+141357	Lightning Charging Cable	1	14.95	1/23/2019 5:30	850 River St, Atlanta, GA 30301
+141358	Lightning Charging Cable	1	14.95	1/5/2019 15:31	911 Madison St, San Francisco, CA 94016
+141359	AAA Batteries (4-pack)	2	2.99	1/9/2019 22:21	383 11th St, Seattle, WA 98101
+141360	Macbook Pro Laptop	1	1700	1/17/2019 21:00	263 Meadow St, Los Angeles, CA 90001
+141361	Apple Airpods Headphones	2	150	1/23/2019 15:39	181 Lakeview St, Portland, OR 97035
+141362	Lightning Charging Cable	1	14.95	1/2/2019 22:17	392 Cherry St, Atlanta, GA 30301
+141363	Wired Headphones	1	11.99	1/8/2019 6:24	921 Highland St, Dallas, TX 75001
+141364	AA Batteries (4-pack)	1	3.84	1/1/2019 7:46	657 Lincoln St, Dallas, TX 75001
+141365	Vareebadd Phone	1	400	1/10/2019 11:19	20 Dogwood St, New York City, NY 10001
+141365	Wired Headphones	1	11.99	1/10/2019 11:19	20 Dogwood St, New York City, NY 10001
+141366	Flatscreen TV	1	300	1/17/2019 22:34	803 Church St, Seattle, WA 98101
+141367	27in 4K Gaming Monitor	1	389.99	1/9/2019 10:06	23 13th St, San Francisco, CA 94016
+141368	USB-C Charging Cable	1	11.95	1/10/2019 21:39	387 Hill St, Los Angeles, CA 90001
+141369	Lightning Charging Cable	1	14.95	1/21/2019 21:03	785 9th St, San Francisco, CA 94016
+141370	AAA Batteries (4-pack)	2	2.99	1/24/2019 20:53	375 Center St, Seattle, WA 98101
+141371	Lightning Charging Cable	1	14.95	1/23/2019 18:34	685 West St, Atlanta, GA 30301
+141372	AAA Batteries (4-pack)	1	2.99	1/26/2019 10:07	134 Hickory St, Portland, ME 04101
+141373	27in FHD Monitor	1	149.99	1/20/2019 13:08	82 Hickory St, San Francisco, CA 94016
+141374	Wired Headphones	1	11.99	1/14/2019 10:12	386 12th St, Boston, MA 02215
+141375	27in 4K Gaming Monitor	1	389.99	1/10/2019 13:51	49 Center St, Los Angeles, CA 90001
+141376	Wired Headphones	1	11.99	1/20/2019 14:57	32 West St, Los Angeles, CA 90001
+141377	Wired Headphones	1	11.99	1/20/2019 15:12	711 11th St, San Francisco, CA 94016
+141378	USB-C Charging Cable	1	11.95	1/22/2019 10:25	777 North St, Boston, MA 02215
+141379	AA Batteries (4-pack)	1	3.84	1/25/2019 18:00	378 Center St, San Francisco, CA 94016
+141380	USB-C Charging Cable	1	11.95	1/17/2019 18:45	868 14th St, Los Angeles, CA 90001
+141381	Bose SoundSport Headphones	1	99.99	1/3/2019 18:22	336 Jackson St, Los Angeles, CA 90001
+141382	AAA Batteries (4-pack)	1	2.99	1/16/2019 13:50	613 Ridge St, Dallas, TX 75001
+141383	AAA Batteries (4-pack)	1	2.99	1/8/2019 10:01	418 11th St, Boston, MA 02215
+141384	Google Phone	1	600	1/3/2019 0:14	223 Jackson St, Boston, MA 02215
+141384	USB-C Charging Cable	1	11.95	1/3/2019 0:14	223 Jackson St, Boston, MA 02215
+141385	Macbook Pro Laptop	1	1700	1/10/2019 12:59	502 Walnut St, Atlanta, GA 30301
+141386	Lightning Charging Cable	1	14.95	1/8/2019 19:27	692 13th St, New York City, NY 10001
+141387	AAA Batteries (4-pack)	1	2.99	1/17/2019 11:12	807 Jackson St, San Francisco, CA 94016
+141388	Lightning Charging Cable	1	14.95	1/22/2019 10:53	24 Park St, Dallas, TX 75001
+141389	AA Batteries (4-pack)	1	3.84	1/26/2019 11:07	176 Church St, Los Angeles, CA 90001
+141390	Wired Headphones	1	11.99	1/26/2019 11:22	667 Park St, New York City, NY 10001
+141391	Bose SoundSport Headphones	1	99.99	1/31/2019 10:02	375 Johnson St, New York City, NY 10001
+141392	Apple Airpods Headphones	1	150	1/25/2019 13:51	755 Cherry St, Seattle, WA 98101
+141393	USB-C Charging Cable	1	11.95	1/18/2019 17:57	240 Meadow St, Boston, MA 02215
+141394	iPhone	1	700	1/6/2019 16:54	534 12th St, San Francisco, CA 94016
+141395	AAA Batteries (4-pack)	1	2.99	1/29/2019 16:20	790 Hickory St, Portland, ME 04101
+141396	USB-C Charging Cable	1	11.95	1/26/2019 14:10	141 Elm St, San Francisco, CA 94016
+141397	Lightning Charging Cable	1	14.95	1/13/2019 12:59	940 8th St, New York City, NY 10001
+141398	AAA Batteries (4-pack)	1	2.99	1/4/2019 16:31	33 Jackson St, Dallas, TX 75001
+141399	ThinkPad Laptop	1	999.99	1/17/2019 9:57	830 Walnut St, Atlanta, GA 30301
+141400	Lightning Charging Cable	1	14.95	1/18/2019 18:09	215 Park St, New York City, NY 10001
+141401	Apple Airpods Headphones	1	150	1/23/2019 12:50	34 Cedar St, Portland, OR 97035
+141402	AAA Batteries (4-pack)	1	2.99	1/7/2019 12:56	939 Lakeview St, Atlanta, GA 30301
+141403	Lightning Charging Cable	1	14.95	1/26/2019 16:41	216 Meadow St, Boston, MA 02215
+141404	AA Batteries (4-pack)	1	3.84	1/29/2019 20:06	200 14th St, San Francisco, CA 94016
+141405	Wired Headphones	1	11.99	1/29/2019 11:00	247 Forest St, Los Angeles, CA 90001
+141406	USB-C Charging Cable	1	11.95	1/28/2019 12:02	110 13th St, Seattle, WA 98101
+141407	Apple Airpods Headphones	1	150	1/1/2019 16:06	946 12th St, Portland, ME 04101
+141408	Apple Airpods Headphones	1	150	1/7/2019 13:25	103 14th St, San Francisco, CA 94016
+141409	Bose SoundSport Headphones	1	99.99	1/1/2019 21:49	36 Highland St, Portland, ME 04101
+141410	27in FHD Monitor	1	149.99	1/3/2019 22:02	890 6th St, Dallas, TX 75001
+141411	Wired Headphones	1	11.99	1/15/2019 5:35	350 Main St, New York City, NY 10001
+141412	AA Batteries (4-pack)	2	3.84	1/14/2019 17:16	397 Dogwood St, Atlanta, GA 30301
+141413	AA Batteries (4-pack)	1	3.84	1/24/2019 17:54	793 5th St, San Francisco, CA 94016
+141414	Google Phone	1	600	1/26/2019 3:38	609 14th St, New York City, NY 10001
+141415	Wired Headphones	1	11.99	1/12/2019 19:02	81 Madison St, San Francisco, CA 94016
+141416	AAA Batteries (4-pack)	1	2.99	1/2/2019 13:37	209 North St, Atlanta, GA 30301
+141417	Bose SoundSport Headphones	1	99.99	1/3/2019 8:21	207 1st St, San Francisco, CA 94016
+141418	Apple Airpods Headphones	1	150	1/10/2019 12:48	145 Lakeview St, New York City, NY 10001
+141419	Wired Headphones	1	11.99	1/22/2019 11:53	910 Meadow St, San Francisco, CA 94016
+141420	Lightning Charging Cable	2	14.95	1/9/2019 12:19	74 7th St, San Francisco, CA 94016
+141421	Flatscreen TV	1	300	1/24/2019 13:18	154 7th St, Dallas, TX 75001
+141422	Apple Airpods Headphones	1	150	1/16/2019 22:23	970 Lakeview St, Boston, MA 02215
+141423	Lightning Charging Cable	2	14.95	1/6/2019 13:41	440 South St, New York City, NY 10001
+141424	Apple Airpods Headphones	1	150	1/13/2019 19:49	971 Walnut St, Atlanta, GA 30301
+141425	Wired Headphones	1	11.99	1/19/2019 14:59	347 Hill St, Atlanta, GA 30301
+141426	Google Phone	1	600	1/12/2019 12:57	824 Madison St, Dallas, TX 75001
+141427	USB-C Charging Cable	1	11.95	1/16/2019 14:44	355 13th St, Los Angeles, CA 90001
+141428	AA Batteries (4-pack)	1	3.84	1/22/2019 10:06	295 West St, New York City, NY 10001
+141429	Apple Airpods Headphones	1	150	1/21/2019 6:04	273 Hill St, Atlanta, GA 30301
+141430	34in Ultrawide Monitor	1	379.99	1/23/2019 21:37	428 Cedar St, Los Angeles, CA 90001
+141431	USB-C Charging Cable	1	11.95	1/4/2019 7:16	728 Lakeview St, Los Angeles, CA 90001
+141432	USB-C Charging Cable	1	11.95	1/18/2019 22:38	574 Johnson St, San Francisco, CA 94016
+141433	Google Phone	1	600	1/15/2019 20:08	179 West St, San Francisco, CA 94016
+141434	27in 4K Gaming Monitor	1	389.99	1/13/2019 19:03	480 Lakeview St, San Francisco, CA 94016
+141435	USB-C Charging Cable	1	11.95	1/15/2019 10:55	445 4th St, Atlanta, GA 30301
+141436	Bose SoundSport Headphones	1	99.99	1/3/2019 7:59	792 Lakeview St, San Francisco, CA 94016
+141437	iPhone	1	700	1/10/2019 15:40	377 Meadow St, New York City, NY 10001
+141438	Wired Headphones	2	11.99	1/29/2019 17:36	331 Center St, Seattle, WA 98101
+141439	Flatscreen TV	1	300	1/9/2019 20:49	536 Walnut St, Boston, MA 02215
+141440	Google Phone	1	600	1/31/2019 23:10	222 Lakeview St, San Francisco, CA 94016
+141441	AA Batteries (4-pack)	1	3.84	1/20/2019 19:08	631 Elm St, Los Angeles, CA 90001
+141442	Google Phone	1	600	1/6/2019 10:27	186 Meadow St, New York City, NY 10001
+141443	Lightning Charging Cable	1	14.95	1/15/2019 19:22	485 Elm St, Los Angeles, CA 90001
+141444	AAA Batteries (4-pack)	1	2.99	1/22/2019 22:56	776 5th St, San Francisco, CA 94016
+141445	USB-C Charging Cable	1	11.95	1/23/2019 21:37	112 Madison St, Los Angeles, CA 90001
+141446	Bose SoundSport Headphones	1	99.99	1/16/2019 20:03	150 14th St, Seattle, WA 98101
+141447	AAA Batteries (4-pack)	1	2.99	1/15/2019 21:14	51 10th St, Boston, MA 02215
+141448	Bose SoundSport Headphones	1	99.99	1/7/2019 15:50	895 Forest St, San Francisco, CA 94016
+141449	USB-C Charging Cable	1	11.95	1/25/2019 15:41	450 Dogwood St, Boston, MA 02215
+141450	Google Phone	1	600	1/12/2019 11:16	521 Park St, San Francisco, CA 94016
+141450	Bose SoundSport Headphones	1	99.99	1/12/2019 11:16	521 Park St, San Francisco, CA 94016
+141451	AA Batteries (4-pack)	1	3.84	1/18/2019 18:01	678 Elm St, Portland, OR 97035
+141452	Bose SoundSport Headphones	1	99.99	1/16/2019 13:37	593 14th St, Austin, TX 73301
+141453	Macbook Pro Laptop	1	1700	1/6/2019 13:09	469 4th St, Atlanta, GA 30301
+141454	Bose SoundSport Headphones	1	99.99	1/12/2019 21:43	87 North St, New York City, NY 10001
+141455	Apple Airpods Headphones	1	150	1/6/2019 9:26	588 Main St, Los Angeles, CA 90001
+141456	AAA Batteries (4-pack)	1	2.99	1/5/2019 13:28	676 Cedar St, Boston, MA 02215
+141457	iPhone	1	700	1/9/2019 22:11	820 Jackson St, Seattle, WA 98101
+141457	Apple Airpods Headphones	1	150	1/9/2019 22:11	820 Jackson St, Seattle, WA 98101
+141458	iPhone	1	700	1/29/2019 1:12	497 Park St, San Francisco, CA 94016
+141459	AAA Batteries (4-pack)	1	2.99	1/7/2019 13:20	344 Lakeview St, New York City, NY 10001
+141460	iPhone	1	700	1/26/2019 17:29	855 2nd St, New York City, NY 10001
+141461	Lightning Charging Cable	1	14.95	1/2/2019 10:34	233 Cherry St, Dallas, TX 75001
+141462	Wired Headphones	1	11.99	1/30/2019 23:34	542 Wilson St, Atlanta, GA 30301
+141463	Apple Airpods Headphones	1	150	1/22/2019 18:14	147 Center St, Boston, MA 02215
+141464	AA Batteries (4-pack)	2	3.84	1/31/2019 1:03	795 13th St, New York City, NY 10001
+141465	Lightning Charging Cable	1	14.95	1/30/2019 11:24	340 10th St, Atlanta, GA 30301
+141466	AAA Batteries (4-pack)	2	2.99	1/24/2019 16:09	269 4th St, Seattle, WA 98101
+141467	Bose SoundSport Headphones	1	99.99	1/22/2019 19:48	154 Jackson St, Boston, MA 02215
+141468	Flatscreen TV	1	300	1/7/2019 15:21	268 8th St, Austin, TX 73301
+141469	Flatscreen TV	1	300	1/2/2019 7:44	163 8th St, San Francisco, CA 94016
+141470	AAA Batteries (4-pack)	1	2.99	1/9/2019 17:29	571 Jefferson St, Boston, MA 02215
+141471	Apple Airpods Headphones	1	150	1/17/2019 14:21	81 11th St, Los Angeles, CA 90001
+141472	iPhone	1	700	1/27/2019 7:05	853 9th St, San Francisco, CA 94016
+141473	iPhone	1	700	1/11/2019 16:48	768 Maple St, San Francisco, CA 94016
+141474	Apple Airpods Headphones	1	150	1/17/2019 22:58	580 Johnson St, Boston, MA 02215
+141475	Lightning Charging Cable	1	14.95	1/7/2019 8:41	548 10th St, Boston, MA 02215
+141476	iPhone	1	700	1/6/2019 15:38	295 Hickory St, New York City, NY 10001
+141477	AA Batteries (4-pack)	1	3.84	1/20/2019 9:24	371 South St, San Francisco, CA 94016
+141478	Google Phone	1	600	1/26/2019 13:32	303 North St, Atlanta, GA 30301
+141478	Apple Airpods Headphones	1	150	1/26/2019 13:32	303 North St, Atlanta, GA 30301
+141479	Bose SoundSport Headphones	1	99.99	1/12/2019 19:24	613 Main St, Atlanta, GA 30301
+141480	AA Batteries (4-pack)	2	3.84	1/20/2019 12:32	451 River St, Portland, OR 97035
+141481	AA Batteries (4-pack)	1	3.84	1/26/2019 22:19	118 Church St, New York City, NY 10001
+141482	USB-C Charging Cable	1	11.95	1/28/2019 13:10	333 7th St, Portland, OR 97035
+141483	Flatscreen TV	1	300	1/21/2019 15:57	216 Willow St, Austin, TX 73301
+141484	USB-C Charging Cable	1	11.95	1/29/2019 21:06	127 Madison St, Los Angeles, CA 90001
+141485	27in 4K Gaming Monitor	1	389.99	1/7/2019 21:06	566 Park St, New York City, NY 10001
+141486	USB-C Charging Cable	1	11.95	1/14/2019 13:29	940 West St, Los Angeles, CA 90001
+141487	Bose SoundSport Headphones	1	99.99	1/19/2019 18:28	831 Sunset St, San Francisco, CA 94016
+141488	Bose SoundSport Headphones	1	99.99	1/13/2019 14:33	133 1st St, Los Angeles, CA 90001
+141489	AAA Batteries (4-pack)	2	2.99	1/4/2019 11:21	941 Lincoln St, Los Angeles, CA 90001
+141490	27in FHD Monitor	1	149.99	1/24/2019 9:54	201 Center St, New York City, NY 10001
+141491	Bose SoundSport Headphones	1	99.99	1/25/2019 11:10	529 Park St, Portland, OR 97035
+141492	20in Monitor	1	109.99	1/18/2019 9:23	331 Chestnut St, Dallas, TX 75001
+141493	34in Ultrawide Monitor	1	379.99	1/2/2019 11:26	922 2nd St, Los Angeles, CA 90001
+141494	AA Batteries (4-pack)	2	3.84	1/7/2019 0:40	237 Forest St, Austin, TX 73301
+141495	Macbook Pro Laptop	1	1700	1/19/2019 18:02	442 South St, Dallas, TX 75001
+141496	Wired Headphones	1	11.99	1/31/2019 16:21	310 8th St, Los Angeles, CA 90001
+141497	Wired Headphones	1	11.99	1/29/2019 18:07	139 Church St, Atlanta, GA 30301
+141498	AA Batteries (4-pack)	1	3.84	1/8/2019 7:31	337 North St, Austin, TX 73301
+141499	Google Phone	1	600	1/19/2019 15:17	90 1st St, San Francisco, CA 94016
+141500	Google Phone	1	600	1/12/2019 11:56	235 Walnut St, New York City, NY 10001
+141501	AA Batteries (4-pack)	1	3.84	1/25/2019 12:38	738 Dogwood St, Los Angeles, CA 90001
+141502	AA Batteries (4-pack)	2	3.84	1/8/2019 20:07	920 Center St, San Francisco, CA 94016
+141503	27in 4K Gaming Monitor	1	389.99	1/3/2019 19:54	304 Park St, Dallas, TX 75001
+141504	iPhone	1	700	1/13/2019 13:37	855 11th St, Seattle, WA 98101
+141505	27in 4K Gaming Monitor	1	389.99	1/5/2019 6:59	33 Dogwood St, New York City, NY 10001
+141506	Google Phone	1	600	1/24/2019 19:03	463 10th St, Atlanta, GA 30301
+141507	Apple Airpods Headphones	1	150	1/19/2019 20:07	961 1st St, Los Angeles, CA 90001
+141508	USB-C Charging Cable	1	11.95	1/18/2019 19:11	190 South St, Austin, TX 73301
+141509	Lightning Charging Cable	1	14.95	1/16/2019 11:11	195 Chestnut St, San Francisco, CA 94016
+141510	Wired Headphones	2	11.99	1/16/2019 14:32	610 South St, Los Angeles, CA 90001
+141511	27in 4K Gaming Monitor	1	389.99	1/14/2019 16:57	608 13th St, New York City, NY 10001
+141512	Lightning Charging Cable	1	14.95	1/8/2019 20:12	789 4th St, Los Angeles, CA 90001
+141513	Apple Airpods Headphones	1	150	1/18/2019 22:22	795 Hickory St, Atlanta, GA 30301
+141514	Google Phone	1	600	1/27/2019 21:26	947 10th St, Boston, MA 02215
+141515	34in Ultrawide Monitor	1	379.99	1/12/2019 16:34	179 Highland St, Seattle, WA 98101
+141516	LG Washing Machine	1	600	1/17/2019 19:53	382 Main St, Seattle, WA 98101
+141517	iPhone	1	700	1/13/2019 14:14	326 Maple St, Los Angeles, CA 90001
+141518	Lightning Charging Cable	1	14.95	1/1/2019 11:41	991 Adams St, Los Angeles, CA 90001
+141519	Lightning Charging Cable	1	14.95	1/18/2019 17:16	511 Maple St, San Francisco, CA 94016
+141520	iPhone	1	700	1/15/2019 11:24	23 Cherry St, Atlanta, GA 30301
+141521	Wired Headphones	1	11.99	1/6/2019 11:19	724 Hickory St, Los Angeles, CA 90001
+141522	27in FHD Monitor	1	149.99	1/2/2019 23:35	240 Maple St, Dallas, TX 75001
+141523	Google Phone	1	600	1/2/2019 13:17	17 Dogwood St, San Francisco, CA 94016
+141524	USB-C Charging Cable	1	11.95	1/11/2019 13:18	853 Walnut St, Boston, MA 02215
+141525	AAA Batteries (4-pack)	2	2.99	1/7/2019 4:31	590 Jackson St, Los Angeles, CA 90001
+141526	AA Batteries (4-pack)	2	3.84	1/21/2019 22:12	212 Lincoln St, New York City, NY 10001
+141527	Apple Airpods Headphones	1	150	1/25/2019 18:52	401 Chestnut St, Los Angeles, CA 90001
+141528	AAA Batteries (4-pack)	3	2.99	1/11/2019 2:13	57 11th St, Austin, TX 73301
+141529	Bose SoundSport Headphones	1	99.99	1/13/2019 12:55	264 River St, Austin, TX 73301
+141530	AAA Batteries (4-pack)	1	2.99	1/19/2019 18:13	324 7th St, Austin, TX 73301
+141531	Flatscreen TV	1	300	1/15/2019 18:03	252 Sunset St, New York City, NY 10001
+141532	Lightning Charging Cable	1	14.95	1/12/2019 8:44	718 Walnut St, San Francisco, CA 94016
+141533	34in Ultrawide Monitor	1	379.99	1/1/2019 13:34	400 Lakeview St, Seattle, WA 98101
+141534	Bose SoundSport Headphones	1	99.99	1/5/2019 10:02	439 Washington St, San Francisco, CA 94016
+141535	Wired Headphones	1	11.99	1/3/2019 10:59	139 Wilson St, Portland, OR 97035
+141536	AAA Batteries (4-pack)	1	2.99	1/30/2019 16:35	127 6th St, Portland, OR 97035
+141537	Lightning Charging Cable	1	14.95	1/6/2019 9:37	654 West St, Portland, OR 97035
+141538	27in FHD Monitor	1	149.99	1/12/2019 15:38	765 River St, New York City, NY 10001
+141539	27in FHD Monitor	1	149.99	1/16/2019 15:22	167 West St, San Francisco, CA 94016
+141540	Apple Airpods Headphones	1	150	1/10/2019 14:07	703 Maple St, Los Angeles, CA 90001
+141541	AAA Batteries (4-pack)	1	2.99	1/27/2019 22:39	296 Lakeview St, Boston, MA 02215
+141542	AA Batteries (4-pack)	1	3.84	1/20/2019 18:33	431 Dogwood St, San Francisco, CA 94016
+141543	Lightning Charging Cable	1	14.95	1/25/2019 10:48	684 5th St, Atlanta, GA 30301
+141544	Lightning Charging Cable	1	14.95	1/3/2019 18:32	905 Ridge St, San Francisco, CA 94016
+141545	Google Phone	1	600	1/16/2019 20:17	988 Adams St, Dallas, TX 75001
+141546	20in Monitor	1	109.99	1/22/2019 2:39	390 Ridge St, Atlanta, GA 30301
+141547	USB-C Charging Cable	2	11.95	1/12/2019 10:26	164 Willow St, San Francisco, CA 94016
+141548	Lightning Charging Cable	1	14.95	1/11/2019 23:00	964 Forest St, Los Angeles, CA 90001
+141549	27in FHD Monitor	1	149.99	1/15/2019 10:53	240 Cherry St, Atlanta, GA 30301
+141550	iPhone	1	700	1/31/2019 10:58	399 Church St, Boston, MA 02215
+141550	Apple Airpods Headphones	2	150	1/31/2019 10:58	399 Church St, Boston, MA 02215
+141550	Wired Headphones	1	11.99	1/31/2019 10:58	399 Church St, Boston, MA 02215
+141551	Lightning Charging Cable	2	14.95	1/19/2019 16:39	88 7th St, Los Angeles, CA 90001
+141552	Bose SoundSport Headphones	1	99.99	1/10/2019 10:40	533 Jackson St, New York City, NY 10001
+141553	Bose SoundSport Headphones	1	99.99	1/27/2019 0:07	16 Forest St, San Francisco, CA 94016
+141554	USB-C Charging Cable	1	11.95	1/4/2019 12:57	498 Dogwood St, Austin, TX 73301
+141555	AAA Batteries (4-pack)	3	2.99	1/15/2019 10:18	47 Pine St, Dallas, TX 75001
+141556	USB-C Charging Cable	1	11.95	1/29/2019 10:07	164 Lincoln St, New York City, NY 10001
+141557	Lightning Charging Cable	1	14.95	1/23/2019 22:54	406 8th St, San Francisco, CA 94016
+141558	27in 4K Gaming Monitor	1	389.99	1/1/2019 12:14	345 Chestnut St, Dallas, TX 75001
+141559	Wired Headphones	1	11.99	1/26/2019 22:08	932 River St, Boston, MA 02215
+141560	34in Ultrawide Monitor	1	379.99	1/9/2019 13:34	559 Adams St, Seattle, WA 98101
+141561	Wired Headphones	1	11.99	1/9/2019 17:19	897 River St, San Francisco, CA 94016
+141562	Bose SoundSport Headphones	1	99.99	1/29/2019 12:47	334 12th St, Los Angeles, CA 90001
+141563	USB-C Charging Cable	1	11.95	1/15/2019 15:52	98 13th St, San Francisco, CA 94016
+141564	Apple Airpods Headphones	1	150	1/29/2019 11:03	780 Walnut St, New York City, NY 10001
+141565	Wired Headphones	1	11.99	1/13/2019 6:05	884 11th St, San Francisco, CA 94016
+141566	27in FHD Monitor	1	149.99	1/13/2019 18:41	693 Wilson St, San Francisco, CA 94016
+141567	Lightning Charging Cable	1	14.95	1/9/2019 20:37	55 Highland St, Los Angeles, CA 90001
+141568	ThinkPad Laptop	1	999.99	1/26/2019 20:30	158 9th St, San Francisco, CA 94016
+141569	Macbook Pro Laptop	1	1700	1/11/2019 11:15	235 Ridge St, Los Angeles, CA 90001
+141570	USB-C Charging Cable	1	11.95	1/11/2019 16:49	112 13th St, Dallas, TX 75001
+141571	Lightning Charging Cable	1	14.95	1/21/2019 23:01	809 Dogwood St, San Francisco, CA 94016
+141572	AAA Batteries (4-pack)	1	2.99	1/13/2019 23:51	187 Dogwood St, Austin, TX 73301
+141573	Lightning Charging Cable	1	14.95	1/4/2019 17:39	850 2nd St, Atlanta, GA 30301
+141574	Lightning Charging Cable	1	14.95	1/19/2019 16:56	989 Jefferson St, Los Angeles, CA 90001
+141575	USB-C Charging Cable	1	11.95	1/7/2019 10:42	787 Highland St, Seattle, WA 98101
+141576	Apple Airpods Headphones	1	150	1/5/2019 20:21	908 Lincoln St, Atlanta, GA 30301
+141577	Flatscreen TV	1	300	1/30/2019 20:19	662 Lincoln St, Seattle, WA 98101
+141578	Bose SoundSport Headphones	1	99.99	1/24/2019 5:51	61 Sunset St, Portland, OR 97035
+141579	Lightning Charging Cable	1	14.95	1/23/2019 16:11	871 Willow St, Los Angeles, CA 90001
+141580	AA Batteries (4-pack)	1	3.84	1/28/2019 11:02	295 Chestnut St, Boston, MA 02215
+141581	Apple Airpods Headphones	1	150	1/28/2019 20:50	64 Elm St, San Francisco, CA 94016
+141582	iPhone	1	700	1/15/2019 1:45	416 9th St, San Francisco, CA 94016
+141583	USB-C Charging Cable	1	11.95	1/30/2019 12:48	717 Cedar St, Dallas, TX 75001
+141584	Macbook Pro Laptop	1	1700	1/14/2019 16:51	395 Lake St, New York City, NY 10001
+141585	AA Batteries (4-pack)	2	3.84	1/11/2019 10:04	406 Highland St, San Francisco, CA 94016
+141586	Lightning Charging Cable	1	14.95	1/26/2019 20:16	411 Jackson St, San Francisco, CA 94016
+141587	USB-C Charging Cable	1	11.95	1/29/2019 15:14	504 14th St, Dallas, TX 75001
+141587	Apple Airpods Headphones	1	150	1/29/2019 15:14	504 14th St, Dallas, TX 75001
+141588	AA Batteries (4-pack)	1	3.84	1/3/2019 1:43	582 Madison St, Dallas, TX 75001
+141589	Wired Headphones	1	11.99	1/10/2019 13:56	118 12th St, Seattle, WA 98101
+141590	Bose SoundSport Headphones	1	99.99	1/5/2019 16:40	350 5th St, Boston, MA 02215
+141591	ThinkPad Laptop	1	999.99	1/27/2019 23:59	503 Maple St, Seattle, WA 98101
+141592	AA Batteries (4-pack)	2	3.84	1/5/2019 11:30	644 13th St, San Francisco, CA 94016
+141593	Bose SoundSport Headphones	1	99.99	1/9/2019 14:26	406 Washington St, Los Angeles, CA 90001
+141594	AAA Batteries (4-pack)	1	2.99	1/30/2019 12:09	821 14th St, Atlanta, GA 30301
+141595	ThinkPad Laptop	1	999.99	1/27/2019 14:36	146 2nd St, Boston, MA 02215
+141596	Lightning Charging Cable	1	14.95	1/1/2019 17:30	582 Jackson St, Boston, MA 02215
+141597	AAA Batteries (4-pack)	2	2.99	1/28/2019 12:38	919 Elm St, San Francisco, CA 94016
+141598	20in Monitor	1	109.99	1/12/2019 13:28	164 Pine St, Seattle, WA 98101
+141599	AAA Batteries (4-pack)	1	2.99	1/17/2019 11:59	814 Sunset St, Portland, OR 97035
+141600	AAA Batteries (4-pack)	2	2.99	1/27/2019 9:08	445 Lake St, San Francisco, CA 94016
+141601	Lightning Charging Cable	1	14.95	1/7/2019 19:45	745 2nd St, Atlanta, GA 30301
+141602	27in FHD Monitor	1	149.99	1/13/2019 20:17	170 6th St, Atlanta, GA 30301
+141603	Wired Headphones	1	11.99	1/24/2019 10:54	214 14th St, Seattle, WA 98101
+141604	27in FHD Monitor	1	149.99	1/1/2019 23:58	135 Washington St, San Francisco, CA 94016
+141605	Wired Headphones	1	11.99	1/10/2019 19:52	189 Maple St, San Francisco, CA 94016
+141606	Lightning Charging Cable	1	14.95	1/2/2019 1:26	449 Maple St, Austin, TX 73301
+141607	AA Batteries (4-pack)	2	3.84	1/27/2019 20:18	861 Cedar St, Dallas, TX 75001
+141608	Lightning Charging Cable	1	14.95	1/14/2019 17:47	852 Cherry St, San Francisco, CA 94016
+141609	Apple Airpods Headphones	1	150	1/4/2019 14:05	287 Chestnut St, San Francisco, CA 94016
+141610	Lightning Charging Cable	1	14.95	1/29/2019 16:55	846 Cherry St, San Francisco, CA 94016
+141611	Apple Airpods Headphones	1	150	1/27/2019 18:29	877 Lincoln St, Atlanta, GA 30301
+141612	Apple Airpods Headphones	1	150	1/24/2019 10:33	892 12th St, Los Angeles, CA 90001
+141613	AAA Batteries (4-pack)	1	2.99	1/1/2019 10:21	644 Pine St, Atlanta, GA 30301
+141614	AA Batteries (4-pack)	1	3.84	1/9/2019 13:03	821 Spruce St, San Francisco, CA 94016
+141615	Wired Headphones	1	11.99	1/24/2019 18:39	944 Chestnut St, Los Angeles, CA 90001
+141616	AA Batteries (4-pack)	1	3.84	1/24/2019 0:56	440 Elm St, Boston, MA 02215
+141617	Wired Headphones	1	11.99	1/26/2019 2:00	84 Hickory St, Los Angeles, CA 90001
+141618	Bose SoundSport Headphones	1	99.99	1/9/2019 11:07	573 Lake St, Dallas, TX 75001
+141619	27in FHD Monitor	1	149.99	1/12/2019 20:15	108 River St, San Francisco, CA 94016
+141620	AAA Batteries (4-pack)	3	2.99	1/9/2019 10:56	211 Meadow St, New York City, NY 10001
+141621	AAA Batteries (4-pack)	1	2.99	1/12/2019 9:49	917 Spruce St, Atlanta, GA 30301
+141622	USB-C Charging Cable	1	11.95	1/27/2019 12:46	171 Ridge St, Portland, OR 97035
+141623	Google Phone	1	600	1/6/2019 14:21	770 Center St, San Francisco, CA 94016
+141624	USB-C Charging Cable	1	11.95	1/18/2019 21:07	76 8th St, San Francisco, CA 94016
+141625	AAA Batteries (4-pack)	4	2.99	1/29/2019 8:48	476 8th St, Boston, MA 02215
+141626	Apple Airpods Headphones	1	150	1/24/2019 8:19	97 Highland St, Los Angeles, CA 90001
+141627	Flatscreen TV	1	300	1/16/2019 10:02	374 Meadow St, Austin, TX 73301
+141628	AA Batteries (4-pack)	1	3.84	1/20/2019 13:03	427 Lakeview St, Los Angeles, CA 90001
+141629	27in FHD Monitor	1	149.99	1/27/2019 12:22	434 Church St, San Francisco, CA 94016
+141630	USB-C Charging Cable	1	11.95	1/20/2019 17:28	147 5th St, Dallas, TX 75001
+141631	Lightning Charging Cable	1	14.95	1/15/2019 7:54	81 Main St, San Francisco, CA 94016
+141632	iPhone	1	700	1/21/2019 5:00	964 Hill St, Seattle, WA 98101
+141633	AA Batteries (4-pack)	1	3.84	1/12/2019 20:41	880 Lakeview St, San Francisco, CA 94016
+141634	AAA Batteries (4-pack)	1	2.99	1/20/2019 18:23	414 8th St, Los Angeles, CA 90001
+141635	Wired Headphones	1	11.99	1/13/2019 7:20	31 6th St, New York City, NY 10001
+141636	Apple Airpods Headphones	1	150	1/9/2019 10:24	790 Wilson St, Austin, TX 73301
+141637	AA Batteries (4-pack)	2	3.84	1/4/2019 17:48	676 Willow St, New York City, NY 10001
+141638	AAA Batteries (4-pack)	2	2.99	1/5/2019 8:07	625 Church St, Austin, TX 73301
+141639	ThinkPad Laptop	1	999.99	1/23/2019 16:39	284 12th St, San Francisco, CA 94016
+141640	Macbook Pro Laptop	1	1700	1/2/2019 1:27	768 Forest St, San Francisco, CA 94016
+141641	20in Monitor	1	109.99	1/30/2019 11:12	368 Forest St, San Francisco, CA 94016
+141642	AAA Batteries (4-pack)	1	2.99	1/4/2019 19:21	719 Adams St, New York City, NY 10001
+141643	Bose SoundSport Headphones	1	99.99	1/29/2019 21:41	52 Hill St, Portland, OR 97035
+141644	AAA Batteries (4-pack)	1	2.99	1/1/2019 14:21	454 Main St, Seattle, WA 98101
+141645	Lightning Charging Cable	1	14.95	1/30/2019 15:30	98 Forest St, New York City, NY 10001
+141645	Wired Headphones	1	11.99	1/30/2019 15:30	98 Forest St, New York City, NY 10001
+141646	Lightning Charging Cable	1	14.95	1/1/2019 20:59	678 Adams St, Dallas, TX 75001
+141647	20in Monitor	1	109.99	1/1/2019 14:36	434 Sunset St, Atlanta, GA 30301
+141648	Google Phone	1	600	1/3/2019 16:55	657 10th St, Austin, TX 73301
+141649	Lightning Charging Cable	1	14.95	1/30/2019 15:16	916 Maple St, Seattle, WA 98101
+141650	AAA Batteries (4-pack)	2	2.99	1/22/2019 12:28	166 South St, San Francisco, CA 94016
+141651	AA Batteries (4-pack)	1	3.84	1/24/2019 8:33	449 Main St, Los Angeles, CA 90001
+141652	Lightning Charging Cable	1	14.95	1/5/2019 21:58	576 Pine St, Boston, MA 02215
+141653	AA Batteries (4-pack)	1	3.84	1/28/2019 23:47	63 Cherry St, Portland, ME 04101
+141654	AA Batteries (4-pack)	1	3.84	1/23/2019 14:48	857 4th St, San Francisco, CA 94016
+141655	Wired Headphones	1	11.99	1/16/2019 13:38	592 Cedar St, Los Angeles, CA 90001
+141656	Apple Airpods Headphones	1	150	1/2/2019 10:40	476 Center St, Atlanta, GA 30301
+141657	AAA Batteries (4-pack)	1	2.99	1/13/2019 20:36	990 Park St, Los Angeles, CA 90001
+141658	AA Batteries (4-pack)	1	3.84	1/26/2019 23:47	26 Adams St, San Francisco, CA 94016
+141659	Macbook Pro Laptop	1	1700	1/28/2019 15:52	214 Jackson St, San Francisco, CA 94016
+141660	USB-C Charging Cable	1	11.95	1/11/2019 13:57	106 Sunset St, Boston, MA 02215
+141661	USB-C Charging Cable	1	11.95	1/5/2019 1:25	221 14th St, San Francisco, CA 94016
+141662	AAA Batteries (4-pack)	1	2.99	1/16/2019 13:06	106 Jefferson St, Boston, MA 02215
+141663	iPhone	1	700	1/1/2019 11:01	738 8th St, San Francisco, CA 94016
+141664	Google Phone	1	600	1/8/2019 16:40	621 Dogwood St, San Francisco, CA 94016
+141665	27in 4K Gaming Monitor	1	389.99	1/23/2019 18:55	499 7th St, Boston, MA 02215
+141666	AA Batteries (4-pack)	2	3.84	1/16/2019 16:22	956 Adams St, Boston, MA 02215
+141667	Lightning Charging Cable	3	14.95	1/23/2019 15:14	965 Johnson St, San Francisco, CA 94016
+141668	Lightning Charging Cable	1	14.95	1/15/2019 14:18	124 Jackson St, San Francisco, CA 94016
+141669	27in 4K Gaming Monitor	1	389.99	1/29/2019 15:43	813 Forest St, New York City, NY 10001
+141670	iPhone	1	700	1/31/2019 12:52	166 10th St, Atlanta, GA 30301
+141671	AAA Batteries (4-pack)	2	2.99	1/29/2019 12:25	496 4th St, Boston, MA 02215
+141672	Wired Headphones	1	11.99	1/27/2019 23:05	608 North St, Dallas, TX 75001
+141673	USB-C Charging Cable	1	11.95	1/27/2019 19:23	152 1st St, Austin, TX 73301
+141674	AAA Batteries (4-pack)	1	2.99	1/28/2019 6:28	477 Highland St, Los Angeles, CA 90001
+141675	USB-C Charging Cable	3	11.95	1/4/2019 10:09	964 Main St, Seattle, WA 98101
+141676	Vareebadd Phone	1	400	1/13/2019 11:41	35 13th St, Portland, OR 97035
+141677	27in FHD Monitor	1	149.99	1/3/2019 18:50	345 Hill St, New York City, NY 10001
+141678	Apple Airpods Headphones	1	150	1/8/2019 20:27	524 Ridge St, Boston, MA 02215
+141679	34in Ultrawide Monitor	1	379.99	1/3/2019 19:55	621 13th St, San Francisco, CA 94016
+141680	USB-C Charging Cable	2	11.95	1/14/2019 14:03	980 Washington St, Portland, OR 97035
+141681	AA Batteries (4-pack)	1	3.84	1/3/2019 21:53	543 Forest St, Atlanta, GA 30301
+141682	34in Ultrawide Monitor	1	379.99	1/24/2019 7:03	672 Ridge St, Los Angeles, CA 90001
+141683	AAA Batteries (4-pack)	1	2.99	1/27/2019 16:18	982 Cedar St, New York City, NY 10001
+141684	27in 4K Gaming Monitor	1	389.99	1/29/2019 9:43	666 Jefferson St, Seattle, WA 98101
+141685	Wired Headphones	1	11.99	1/14/2019 0:38	347 12th St, Austin, TX 73301
+141686	Apple Airpods Headphones	1	150	1/22/2019 13:25	788 6th St, San Francisco, CA 94016
+141687	AA Batteries (4-pack)	1	3.84	1/17/2019 19:12	838 2nd St, New York City, NY 10001
+141688	AA Batteries (4-pack)	1	3.84	1/20/2019 11:32	122 Jackson St, New York City, NY 10001
+141689	34in Ultrawide Monitor	1	379.99	1/9/2019 13:56	348 River St, San Francisco, CA 94016
+141690	Macbook Pro Laptop	1	1700	1/14/2019 23:02	27 Jefferson St, Boston, MA 02215
+141691	34in Ultrawide Monitor	1	379.99	1/18/2019 18:34	640 Lake St, New York City, NY 10001
+141692	Bose SoundSport Headphones	1	99.99	1/27/2019 19:46	798 Hill St, Portland, OR 97035
+141693	Wired Headphones	1	11.99	1/7/2019 22:01	733 Meadow St, New York City, NY 10001
+141694	Wired Headphones	1	11.99	1/12/2019 15:43	806 Maple St, Atlanta, GA 30301
+141695	AAA Batteries (4-pack)	1	2.99	1/29/2019 21:20	893 Jefferson St, Boston, MA 02215
+141696	Vareebadd Phone	1	400	1/15/2019 22:33	709 North St, Seattle, WA 98101
+141697	Lightning Charging Cable	1	14.95	1/16/2019 5:50	1 Jefferson St, New York City, NY 10001
+141698	27in 4K Gaming Monitor	1	389.99	1/6/2019 19:56	156 Jackson St, Los Angeles, CA 90001
+141699	USB-C Charging Cable	1	11.95	1/28/2019 8:13	667 Spruce St, Atlanta, GA 30301
+141700	Apple Airpods Headphones	1	150	1/2/2019 12:00	220 Lakeview St, Dallas, TX 75001
+141701	Macbook Pro Laptop	1	1700	1/18/2019 19:33	174 Lincoln St, San Francisco, CA 94016
+141702	iPhone	1	700	1/27/2019 18:33	776 10th St, Boston, MA 02215
+141703	iPhone	1	700	1/29/2019 11:04	371 11th St, Portland, OR 97035
+141704	27in 4K Gaming Monitor	1	389.99	1/31/2019 19:56	823 Hill St, Seattle, WA 98101
+141705	Apple Airpods Headphones	1	150	1/1/2019 14:15	478 8th St, Boston, MA 02215
+141706	USB-C Charging Cable	1	11.95	1/19/2019 13:38	234 Cherry St, Austin, TX 73301
+141707	AA Batteries (4-pack)	1	3.84	1/13/2019 0:53	593 Main St, Los Angeles, CA 90001
+141708	Wired Headphones	1	11.99	1/22/2019 9:31	492 Forest St, Seattle, WA 98101
+141709	Google Phone	1	600	1/24/2019 23:45	411 Ridge St, Dallas, TX 75001
+141710	USB-C Charging Cable	1	11.95	1/23/2019 0:00	57 Hill St, New York City, NY 10001
+141711	USB-C Charging Cable	1	11.95	1/18/2019 13:11	65 Pine St, New York City, NY 10001
+141712	AA Batteries (4-pack)	1	3.84	1/7/2019 12:12	164 Walnut St, Los Angeles, CA 90001
+141713	USB-C Charging Cable	1	11.95	1/25/2019 13:49	169 Washington St, San Francisco, CA 94016
+141714	USB-C Charging Cable	1	11.95	1/27/2019 20:27	986 11th St, New York City, NY 10001
+141715	Bose SoundSport Headphones	1	99.99	1/22/2019 0:30	492 Lakeview St, Boston, MA 02215
+141716	Bose SoundSport Headphones	1	99.99	1/17/2019 9:58	169 Lakeview St, Seattle, WA 98101
+141717	AAA Batteries (4-pack)	1	2.99	1/31/2019 17:15	463 5th St, New York City, NY 10001
+141718	Google Phone	1	600	1/16/2019 15:02	756 Lake St, Dallas, TX 75001
+141719	27in 4K Gaming Monitor	1	389.99	1/10/2019 13:34	152 Cherry St, Seattle, WA 98101
+141720	USB-C Charging Cable	1	11.95	1/25/2019 19:58	317 Center St, New York City, NY 10001
+141721	AA Batteries (4-pack)	1	3.84	1/11/2019 12:03	416 Forest St, Atlanta, GA 30301
+141722	Macbook Pro Laptop	1	1700	1/6/2019 14:06	331 Pine St, Boston, MA 02215
+141723	Wired Headphones	1	11.99	1/14/2019 22:05	340 11th St, Boston, MA 02215
+141724	Lightning Charging Cable	1	14.95	1/6/2019 18:43	494 11th St, Austin, TX 73301
+141725	Wired Headphones	1	11.99	1/9/2019 18:16	370 7th St, Los Angeles, CA 90001
+141726	USB-C Charging Cable	1	11.95	1/20/2019 7:13	697 Center St, San Francisco, CA 94016
+141727	Lightning Charging Cable	2	14.95	1/31/2019 13:38	331 Meadow St, Atlanta, GA 30301
+141728	AAA Batteries (4-pack)	1	2.99	1/14/2019 0:00	431 7th St, New York City, NY 10001
+141729	Wired Headphones	1	11.99	1/9/2019 11:01	426 Walnut St, Los Angeles, CA 90001
+141730	Lightning Charging Cable	1	14.95	1/23/2019 16:23	733 Lincoln St, Boston, MA 02215
+141731	Macbook Pro Laptop	1	1700	1/29/2019 19:24	916 Forest St, San Francisco, CA 94016
+141732	iPhone	1	700	1/1/2019 6:13	446 Pine St, Atlanta, GA 30301
+141733	27in 4K Gaming Monitor	1	389.99	1/24/2019 12:38	987 Maple St, Austin, TX 73301
+141734	Bose SoundSport Headphones	1	99.99	1/29/2019 15:48	485 North St, Los Angeles, CA 90001
+141735	34in Ultrawide Monitor	1	379.99	1/25/2019 12:34	997 Jefferson St, New York City, NY 10001
+141736	USB-C Charging Cable	1	11.95	1/18/2019 12:47	920 Meadow St, Seattle, WA 98101
+141737	ThinkPad Laptop	1	999.99	1/2/2019 8:37	903 Forest St, San Francisco, CA 94016
+141738	iPhone	1	700	1/14/2019 20:53	183 Cherry St, Atlanta, GA 30301
+141738	Lightning Charging Cable	1	14.95	1/14/2019 20:53	183 Cherry St, Atlanta, GA 30301
+141739	AA Batteries (4-pack)	1	3.84	1/27/2019 10:55	383 Jackson St, Atlanta, GA 30301
+141740	AA Batteries (4-pack)	1	3.84	1/12/2019 22:42	927 Forest St, Atlanta, GA 30301
+141741	Bose SoundSport Headphones	1	99.99	1/19/2019 18:56	93 Cherry St, Boston, MA 02215
+141742	USB-C Charging Cable	1	11.95	1/20/2019 10:29	156 Church St, San Francisco, CA 94016
+141743	USB-C Charging Cable	1	11.95	1/18/2019 10:44	607 6th St, San Francisco, CA 94016
+141744	Apple Airpods Headphones	1	150	1/10/2019 15:55	961 7th St, Portland, OR 97035
+141745	AAA Batteries (4-pack)	2	2.99	1/19/2019 0:24	389 Hill St, Atlanta, GA 30301
+141746	Lightning Charging Cable	2	14.95	1/14/2019 21:39	218 8th St, Dallas, TX 75001
+141747	27in FHD Monitor	1	149.99	1/12/2019 5:12	160 Ridge St, Los Angeles, CA 90001
+141748	Apple Airpods Headphones	1	150	1/9/2019 9:46	60 Cedar St, Boston, MA 02215
+141749	Flatscreen TV	1	300	1/24/2019 15:16	974 10th St, Atlanta, GA 30301
+141750	27in FHD Monitor	1	149.99	1/23/2019 16:46	341 Elm St, Seattle, WA 98101
+141751	27in 4K Gaming Monitor	1	389.99	1/8/2019 13:27	396 River St, Los Angeles, CA 90001
+141752	Lightning Charging Cable	1	14.95	1/18/2019 23:13	100 Johnson St, Los Angeles, CA 90001
+141753	USB-C Charging Cable	2	11.95	1/15/2019 19:30	67 Center St, San Francisco, CA 94016
+141754	Apple Airpods Headphones	2	150	1/2/2019 23:09	999 Spruce St, Seattle, WA 98101
+141755	AA Batteries (4-pack)	3	3.84	1/2/2019 20:12	884 Spruce St, Los Angeles, CA 90001
+141756	Bose SoundSport Headphones	1	99.99	1/19/2019 21:53	485 Highland St, Atlanta, GA 30301
+141757	27in FHD Monitor	1	149.99	1/13/2019 14:47	116 Walnut St, Portland, OR 97035
+141758	Wired Headphones	1	11.99	1/21/2019 15:21	610 Spruce St, Dallas, TX 75001
+141759	AAA Batteries (4-pack)	1	2.99	1/2/2019 19:18	765 Lake St, Portland, OR 97035
+141760	Vareebadd Phone	1	400	1/21/2019 11:09	289 Walnut St, Atlanta, GA 30301
+141761	Lightning Charging Cable	1	14.95	1/11/2019 19:02	75 Ridge St, San Francisco, CA 94016
+141762	Bose SoundSport Headphones	1	99.99	1/28/2019 17:52	160 Hickory St, Austin, TX 73301
+141763	27in FHD Monitor	2	149.99	1/5/2019 2:51	351 Adams St, Austin, TX 73301
+141764	USB-C Charging Cable	1	11.95	1/4/2019 17:43	909 2nd St, Seattle, WA 98101
+141765	Lightning Charging Cable	1	14.95	1/24/2019 12:23	78 Sunset St, New York City, NY 10001
+141766	LG Washing Machine	1	600	1/16/2019 21:08	530 Jackson St, Dallas, TX 75001
+141767	20in Monitor	1	109.99	1/23/2019 22:30	752 Walnut St, Austin, TX 73301
+141768	USB-C Charging Cable	1	11.95	1/14/2019 11:50	780 Cherry St, Portland, ME 04101
+141769	AA Batteries (4-pack)	2	3.84	1/21/2019 10:53	824 West St, Dallas, TX 75001
+141770	Wired Headphones	1	11.99	1/4/2019 19:50	50 Willow St, San Francisco, CA 94016
+141771	Lightning Charging Cable	1	14.95	1/11/2019 19:00	564 13th St, San Francisco, CA 94016
+141772	Apple Airpods Headphones	1	150	1/30/2019 8:16	409 Center St, San Francisco, CA 94016
+141773	USB-C Charging Cable	1	11.95	1/30/2019 16:09	693 Chestnut St, New York City, NY 10001
+141774	Bose SoundSport Headphones	1	99.99	1/2/2019 22:11	961 Chestnut St, Los Angeles, CA 90001
+141775	USB-C Charging Cable	1	11.95	1/7/2019 17:15	348 Pine St, Atlanta, GA 30301
+141776	Lightning Charging Cable	1	14.95	1/21/2019 19:20	443 Ridge St, Dallas, TX 75001
+141777	USB-C Charging Cable	1	11.95	1/14/2019 19:43	538 Wilson St, San Francisco, CA 94016
+141778	Lightning Charging Cable	1	14.95	1/27/2019 5:25	432 11th St, Dallas, TX 75001
+141779	Lightning Charging Cable	1	14.95	1/2/2019 11:23	929 Lake St, New York City, NY 10001
+141780	Wired Headphones	1	11.99	1/20/2019 20:15	443 11th St, San Francisco, CA 94016
+141781	Apple Airpods Headphones	1	150	1/20/2019 7:07	605 West St, Austin, TX 73301
+141782	27in FHD Monitor	1	149.99	1/11/2019 21:13	353 4th St, San Francisco, CA 94016
+141782	Bose SoundSport Headphones	1	99.99	1/11/2019 21:13	353 4th St, San Francisco, CA 94016
+141783	Bose SoundSport Headphones	1	99.99	1/27/2019 17:48	581 Willow St, Boston, MA 02215
+141784	27in 4K Gaming Monitor	1	389.99	1/7/2019 11:54	301 River St, New York City, NY 10001
+141785	Apple Airpods Headphones	1	150	1/20/2019 18:27	110 Main St, Portland, OR 97035
+141786	Macbook Pro Laptop	1	1700	1/27/2019 12:58	728 River St, Boston, MA 02215
+141787	Apple Airpods Headphones	1	150	1/15/2019 21:11	865 7th St, San Francisco, CA 94016
+141788	AA Batteries (4-pack)	2	3.84	1/23/2019 14:39	921 Center St, Los Angeles, CA 90001
+141789	Google Phone	1	600	1/1/2019 20:13	903 Lake St, Seattle, WA 98101
+141789	USB-C Charging Cable	2	11.95	1/1/2019 20:13	903 Lake St, Seattle, WA 98101
+141790	AAA Batteries (4-pack)	1	2.99	1/9/2019 15:27	135 Hickory St, Los Angeles, CA 90001
+141791	USB-C Charging Cable	1	11.95	1/16/2019 10:36	266 Forest St, Los Angeles, CA 90001
+141792	USB-C Charging Cable	1	11.95	1/8/2019 22:13	779 Ridge St, Dallas, TX 75001
+141793	AA Batteries (4-pack)	1	3.84	1/19/2019 11:01	830 Dogwood St, Dallas, TX 75001
+141794	Bose SoundSport Headphones	1	99.99	1/24/2019 10:49	147 Maple St, Los Angeles, CA 90001
+141795	iPhone	1	700	1/19/2019 20:31	383 Jefferson St, San Francisco, CA 94016
+141795	Wired Headphones	1	11.99	1/19/2019 20:31	383 Jefferson St, San Francisco, CA 94016
+141796	AAA Batteries (4-pack)	1	2.99	1/23/2019 20:28	594 West St, San Francisco, CA 94016
+141797	27in FHD Monitor	1	149.99	1/2/2019 10:29	393 Johnson St, San Francisco, CA 94016
+141798	20in Monitor	1	109.99	1/18/2019 7:48	482 Washington St, Boston, MA 02215
+141799	AA Batteries (4-pack)	1	3.84	1/2/2019 20:10	270 2nd St, San Francisco, CA 94016
+141800	27in FHD Monitor	1	149.99	1/26/2019 12:11	775 West St, Seattle, WA 98101
+141801	USB-C Charging Cable	1	11.95	1/21/2019 17:24	173 Center St, Portland, OR 97035
+141802	Flatscreen TV	1	300	1/9/2019 6:09	978 7th St, San Francisco, CA 94016
+141803	27in 4K Gaming Monitor	1	389.99	1/2/2019 9:53	452 South St, San Francisco, CA 94016
+141804	Bose SoundSport Headphones	1	99.99	1/23/2019 19:52	350 West St, New York City, NY 10001
+141805	Bose SoundSport Headphones	1	99.99	1/18/2019 8:36	418 Washington St, New York City, NY 10001
+141806	27in 4K Gaming Monitor	1	389.99	1/26/2019 23:02	523 9th St, Austin, TX 73301
+141807	Vareebadd Phone	1	400	1/11/2019 20:23	402 Maple St, Los Angeles, CA 90001
+141808	Lightning Charging Cable	1	14.95	1/10/2019 18:36	373 Cedar St, Seattle, WA 98101
+141809	Google Phone	1	600	1/8/2019 15:38	457 Adams St, Los Angeles, CA 90001
+141809	USB-C Charging Cable	1	11.95	1/8/2019 15:38	457 Adams St, Los Angeles, CA 90001
+141810	Lightning Charging Cable	1	14.95	1/16/2019 12:23	449 14th St, Austin, TX 73301
+141811	AAA Batteries (4-pack)	1	2.99	1/3/2019 20:47	77 Lakeview St, Seattle, WA 98101
+141812	AA Batteries (4-pack)	1	3.84	1/19/2019 22:03	976 Main St, Atlanta, GA 30301
+141813	USB-C Charging Cable	1	11.95	1/10/2019 10:03	836 Jefferson St, Seattle, WA 98101
+141814	20in Monitor	1	109.99	1/8/2019 15:32	583 North St, Los Angeles, CA 90001
+141815	AAA Batteries (4-pack)	2	2.99	1/22/2019 10:50	280 5th St, San Francisco, CA 94016
+141816	34in Ultrawide Monitor	1	379.99	1/9/2019 9:22	730 Adams St, Boston, MA 02215
+141817	LG Dryer	1	600	1/4/2019 9:03	404 Lakeview St, San Francisco, CA 94016
+141818	AA Batteries (4-pack)	1	3.84	1/6/2019 6:53	91 Hill St, Atlanta, GA 30301
+141819	AAA Batteries (4-pack)	2	2.99	1/26/2019 22:06	318 2nd St, New York City, NY 10001
+141820	Lightning Charging Cable	1	14.95	1/21/2019 17:53	215 Lincoln St, Austin, TX 73301
+141821	USB-C Charging Cable	1	11.95	1/21/2019 12:24	337 Wilson St, New York City, NY 10001
+141822	Lightning Charging Cable	1	14.95	1/9/2019 18:53	775 2nd St, Boston, MA 02215
+141823	USB-C Charging Cable	1	11.95	1/27/2019 17:30	952 4th St, Atlanta, GA 30301
+141824	Wired Headphones	1	11.99	1/14/2019 12:34	846 13th St, Atlanta, GA 30301
+141825	Lightning Charging Cable	1	14.95	1/16/2019 13:02	660 Park St, Atlanta, GA 30301
+141826	Lightning Charging Cable	1	14.95	1/25/2019 21:34	336 Center St, San Francisco, CA 94016
+141827	20in Monitor	1	109.99	1/18/2019 21:33	497 Washington St, San Francisco, CA 94016
+141828	AA Batteries (4-pack)	1	3.84	1/13/2019 11:05	611 West St, Atlanta, GA 30301
+141829	Flatscreen TV	1	300	1/15/2019 12:41	214 9th St, San Francisco, CA 94016
+141830	USB-C Charging Cable	1	11.95	1/24/2019 8:24	873 Lakeview St, Seattle, WA 98101
+141831	Bose SoundSport Headphones	1	99.99	1/23/2019 2:42	153 Lakeview St, Dallas, TX 75001
+141832	34in Ultrawide Monitor	1	379.99	1/3/2019 19:01	254 Cedar St, New York City, NY 10001
+141833	34in Ultrawide Monitor	1	379.99	1/11/2019 21:16	689 6th St, San Francisco, CA 94016
+141834	27in FHD Monitor	1	149.99	1/5/2019 12:07	704 10th St, San Francisco, CA 94016
+141835	Flatscreen TV	1	300	1/23/2019 20:33	100 Spruce St, Los Angeles, CA 90001
+141836	AAA Batteries (4-pack)	2	2.99	1/10/2019 22:46	906 West St, Seattle, WA 98101
+141837	Bose SoundSport Headphones	1	99.99	1/11/2019 8:57	858 Wilson St, Boston, MA 02215
+141838	Wired Headphones	1	11.99	1/15/2019 15:07	4 Main St, San Francisco, CA 94016
+141839	USB-C Charging Cable	1	11.95	1/5/2019 10:47	448 River St, Boston, MA 02215
+141840	USB-C Charging Cable	1	11.95	1/24/2019 23:40	739 11th St, Boston, MA 02215
+141841	Bose SoundSport Headphones	1	99.99	1/10/2019 20:43	309 11th St, San Francisco, CA 94016
+141842	Bose SoundSport Headphones	1	99.99	1/19/2019 14:11	471 Maple St, San Francisco, CA 94016
+141843	AA Batteries (4-pack)	1	3.84	1/10/2019 9:59	400 9th St, San Francisco, CA 94016
+141843	AAA Batteries (4-pack)	1	2.99	1/10/2019 9:59	400 9th St, San Francisco, CA 94016
+141844	Lightning Charging Cable	1	14.95	1/21/2019 20:45	368 11th St, Seattle, WA 98101
+141845	AAA Batteries (4-pack)	1	2.99	1/24/2019 23:20	45 Lincoln St, Seattle, WA 98101
+141846	AA Batteries (4-pack)	1	3.84	1/10/2019 9:03	826 Meadow St, Los Angeles, CA 90001
+141847	Bose SoundSport Headphones	1	99.99	1/8/2019 15:52	946 Lake St, Seattle, WA 98101
+141848	USB-C Charging Cable	1	11.95	1/12/2019 16:47	1 8th St, Atlanta, GA 30301
+141849	Bose SoundSport Headphones	1	99.99	1/15/2019 6:28	622 Lake St, Portland, ME 04101
+141850	AAA Batteries (4-pack)	1	2.99	1/28/2019 18:44	676 1st St, Los Angeles, CA 90001
+141851	27in FHD Monitor	1	149.99	1/20/2019 10:43	325 Chestnut St, New York City, NY 10001
+141852	USB-C Charging Cable	1	11.95	1/9/2019 20:04	446 Maple St, Los Angeles, CA 90001
+141853	Apple Airpods Headphones	1	150	1/11/2019 12:32	364 Pine St, New York City, NY 10001
+141854	20in Monitor	1	109.99	1/3/2019 12:55	238 Forest St, Dallas, TX 75001
+141855	ThinkPad Laptop	1	999.99	1/1/2019 15:01	549 Lincoln St, San Francisco, CA 94016
+141856	Lightning Charging Cable	1	14.95	1/10/2019 12:38	165 Jefferson St, New York City, NY 10001
+141857	Bose SoundSport Headphones	1	99.99	1/10/2019 0:35	140 Main St, San Francisco, CA 94016
+141858	USB-C Charging Cable	1	11.95	1/10/2019 19:57	339 Cedar St, San Francisco, CA 94016
+141859	AA Batteries (4-pack)	1	3.84	1/24/2019 6:38	348 Jackson St, Seattle, WA 98101
+141860	ThinkPad Laptop	1	999.99	1/8/2019 15:17	760 Jackson St, Los Angeles, CA 90001
+141861	27in FHD Monitor	1	149.99	1/15/2019 20:15	361 Main St, Los Angeles, CA 90001
+141862	Wired Headphones	1	11.99	1/12/2019 11:02	754 Pine St, San Francisco, CA 94016
+141863	AAA Batteries (4-pack)	1	2.99	1/26/2019 16:21	373 Chestnut St, Seattle, WA 98101
+141864	27in 4K Gaming Monitor	1	389.99	1/18/2019 22:08	797 Forest St, Portland, OR 97035
+141865	Wired Headphones	2	11.99	1/25/2019 22:16	816 South St, San Francisco, CA 94016
+141866	Bose SoundSport Headphones	1	99.99	1/27/2019 13:57	32 Wilson St, Boston, MA 02215
+141867	Apple Airpods Headphones	1	150	1/29/2019 13:58	763 River St, Los Angeles, CA 90001
+141868	Wired Headphones	1	11.99	1/31/2019 20:56	166 Pine St, Los Angeles, CA 90001
+141869	20in Monitor	1	109.99	1/25/2019 11:13	528 Maple St, Los Angeles, CA 90001
+141870	AA Batteries (4-pack)	2	3.84	1/25/2019 22:23	269 Main St, Dallas, TX 75001
+141871	Lightning Charging Cable	1	14.95	1/5/2019 6:28	782 Jefferson St, San Francisco, CA 94016
+141872	34in Ultrawide Monitor	1	379.99	1/19/2019 12:46	428 Madison St, Seattle, WA 98101
+141873	34in Ultrawide Monitor	1	379.99	1/19/2019 19:12	521 Ridge St, San Francisco, CA 94016
+141874	Lightning Charging Cable	1	14.95	1/29/2019 20:04	960 North St, San Francisco, CA 94016
+141875	AA Batteries (4-pack)	1	3.84	1/26/2019 14:00	896 Dogwood St, San Francisco, CA 94016
+141876	Apple Airpods Headphones	1	150	1/13/2019 11:16	81 Maple St, San Francisco, CA 94016
+141877	USB-C Charging Cable	1	11.95	1/1/2019 15:49	441 South St, San Francisco, CA 94016
+141878	Apple Airpods Headphones	1	150	1/17/2019 16:06	652 Chestnut St, Atlanta, GA 30301
+141879	AA Batteries (4-pack)	1	3.84	1/20/2019 20:03	595 South St, San Francisco, CA 94016
+141880	AAA Batteries (4-pack)	2	2.99	1/31/2019 1:21	623 9th St, Dallas, TX 75001
